@@ -1,0 +1,3 @@
+/Users/tkisely/CLionProjects/backprop_AND_gate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tkisely/CLionProjects/backprop_AND_gate/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tkisely/CLionProjects/backprop_AND_gate/cmake-build-debug/CMakeFiles/backprop_AND_gate.dir
